@@ -1,6 +1,8 @@
 ◈ IRONCLAD
 
-CYBER DEFENSE INITIATIVE
+<img width="1024" height="1536" alt="Ironclad_ Neon Cyber Mission" src="https://github.com/user-attachments/assets/ce51d217-f925-4f55-8068-bb8212721907" />
+
+YBER DEFENSE INITIATIVE
 The alert is only the beginning.
 
 A cybersecurity incident-response game where every signal tells a story, every decision has consequences, and the difference between containment and chaos comes down to how you investigate.

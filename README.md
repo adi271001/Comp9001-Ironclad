@@ -66,7 +66,7 @@ You will need Python and Pygame.
 python -m pip install pygame
 python main.py
 Your progress is stored locally in ironclad_save.json beside the game file.
-THE SIGNAL IS THE START. THE RESPONSE IS YOURS.
 
+THE SIGNAL IS THE START. 
+THE RESPONSE IS YOURS.
 IRONCLAD // CYBER DEFENSE INITIATIVE
-</div>

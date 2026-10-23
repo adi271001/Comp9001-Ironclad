@@ -3,6 +3,7 @@ CYBER DEFENSE INITIATIVE
 The alert is only the beginning.
 
 A cybersecurity incident-response game where every signal tells a story, every decision has consequences, and the difference between containment and chaos comes down to how you investigate.
+
 DEFEND  •  INVESTIGATE  •  RESPOND  •  LEARN
 
 The world is already under pressure
